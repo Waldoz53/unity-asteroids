@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "2D Asteroids",
-"dataUrl": "2D Asteroids - Builds.data.unityweb",
-"wasmCodeUrl": "2D Asteroids - Builds.wasm.code.unityweb",
-"wasmFrameworkUrl": "2D Asteroids - Builds.wasm.framework.unityweb",
+"dataUrl": "unity-asteroids.data.unityweb",
+"wasmCodeUrl": "unity-asteroids.wasm.code.unityweb",
+"wasmFrameworkUrl": "unity-asteroids.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
